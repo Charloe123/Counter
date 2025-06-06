@@ -1,0 +1,43 @@
+.first-section{
+    height: 100vh;
+    width: 100%;
+    background-image: url(lookout\ 2.jpg);
+    background-size: cover;
+    
+}
+#counter{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+
+}
+
+button{
+    padding: 25px;
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+    width:120px ;
+    color:white;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.counting{
+    text-align: center;
+
+}
+
+#for{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 80px;
+    color: white;
+}
+
+.timer{
+    text-align: center;
+
+}

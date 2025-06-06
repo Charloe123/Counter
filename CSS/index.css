@@ -1,0 +1,309 @@
+
+    color: body{
+    font-fa
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    display: inline;
+    margin-right: 4px;
+    position: relative;
+    left: 900px;
+    top: 20px;
+}
+nav{background-color: #2c3e50;
+    width: 100%;
+    height: 60px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    color: aqua;
+
+}
+h2 a{
+    position: relative;bottom: 60px;
+    text-decoration: none;
+    color: white;
+    padding-left: 200px;
+}
+h2 a :hover{aqua;
+
+}
+.charlo{
+    width: 300px;
+    height: 250px;
+    position: relative;left:550px ;
+    bottom:80px ;
+
+}
+.charlo{
+    width: 300px;
+    height: 250px;
+    position: relative;left: 550px;
+    bottom: 80px;
+}
+.sandie{
+    width: 30px;
+    height: 30px;
+    position: relative;left: 360px;
+}
+.second{
+    background-color: #1abc9c;
+    position: relative;bottom: 70px;
+    height: 500px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 230px;
+}
+.Ashley{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    right: 90px;
+    bottom: 30px;
+
+}
+.mommy{
+    width: 100px;
+    height:4px ;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 80px;
+    bottom: 42px;
+}
+.charme{
+    color:white;
+    text-align: center;
+}
+.h3{
+    text-align: center;
+    color:#2c3e50;
+    position: relative;
+    top: 50px;
+}
+.myself{
+    background-color: white;
+    position: relative;
+    bottom: 65px;
+    height: 900px;
+    text-align: center;
+}
+.mama{
+    width: 100px;
+    height: 4px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+.broe{
+    width: 100px;
+    height: 4px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    top: 5px;
+    right: 70px;
+}
+.red{
+    width:200px ;
+    height: 150px;
+    position: relative;
+    top:25px ;
+    left: 290px;
+}
+ .brown{
+    width:200px ;
+    height:150px ;
+    position: relative;
+    top: 25px;
+    left:315px ;
+    
+ }
+ .yellow{
+    width: 200px;
+    height:150px ;
+    position: relative;
+    top:25px ;
+    left: 340px;
+
+ }.black{
+    width:200px ;
+    height:150px ;
+    position: relative;
+    top:200px ;
+    right:320px ;
+    
+ }.purple{
+    width:200px ;
+    height:150px ;
+    position: relative;
+    top:200px ;
+    right: 65px;
+ }
+ .green{
+    width:200px ;
+    height:150px ;
+    position: relative;
+    top: 200px;
+    right:500px ;
+ }
+ .yena{
+    background-color: #1abc9c;
+    position: relative;
+    height: 600px;
+    bottom: 500px;
+    
+ }
+
+ h5{
+    text-align: center;
+    color: white;
+    position: relative;
+    top:70px;
+    
+ }
+ .line3{
+    width:80px ;
+    height: 4px;
+    background-color: white;
+    border-radius:20px ;
+    position: relative;
+    left: 70px;
+    top: 65px;
+ }
+ .line4{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    right: 70px;
+    top:50px ;
+ }
+ 
+ .monday{
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 420px;
+    top: 60;
+    color: white;
+    
+ }
+ .tuesday{
+    width: 220px;
+    height: 200pxpx;
+    position: relative;
+    bottom:150px ;
+    left: 700;
+    color: white;
+    
+ }
+ .mancu{
+    background-color: white;
+    position: relative;
+    height: 400px;
+    top: 100px;
+
+    
+    
+ }
+ h4{
+    text-align: center;
+    color: #2c3e50;
+    position: relative;
+    bottom:480px;
+ }
+ 
+ .line10{
+    width: 70px;
+    height: 4px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    right: 60px;
+    bottom:480px;
+
+ }
+ .line11{
+    width: 70px;
+    height: 4px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    left:60px ;
+    bottom:492px;
+ }
+ .star{
+    height:30px ;
+    width:30px ;
+    position: relative;
+    left:660px;
+    bottom:100px;
+
+ 
+ }
+ .star{
+    height:30px ;
+    width: 30px;
+    position: relative;
+    left:655px;
+    bottom:522px;
+ }
+ .uncommon{
+    position: relative;
+    bottom: 500px;
+    left: 350px;
+
+ }
+ .wendy{
+    position: relative;
+    bottom:460px ;
+    left: 350px;
+ }
+ .nkocy{
+    position: relative;
+    bottom: 420px;
+    left: 348px;
+ }
+ .line20{
+    width: 440px;
+    position: relative;
+    right:100px;
+    bottom: 480px;
+ }
+ .line21{
+    width: 440px;
+    position: relative;
+    right:100px ;
+    bottom: 560px;
+    
+ }
+ .line22{
+    width: 440px;
+    position: relative;
+    right: 100px;
+    bottom: 420px;
+ }
+
+ 
+ 
+ 
+    
+ 
+
+
+
+    
